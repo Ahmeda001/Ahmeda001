@@ -34,72 +34,6 @@ I build practical software at the intersection of
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ HateOff
-
-A hate-speech analysis platform combining machine learning with a modern web backend.
-
-**Built with:**  
-`Django` `Django REST Framework` `TensorFlow` `Celery` `Redis` `PostgreSQL`
-
-<a href="https://github.com/Ahmeda001/HateOff">
-  <b>View Repository →</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📡 InfraGuard
-
-A real-time infrastructure monitoring system for tracking system and network health.
-
-**Built with:**  
-`Flask` `Socket.IO` `SQLAlchemy` `MySQL` `psutil` `Python`
-
-<a href="https://github.com/Ahmeda001/InfraGuard_Realtime_Infrastructure_Monitoring">
-  <b>View Repository →</b>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ LawMate
-
-A full-stack AI-oriented legal companion designed for freelancers.
-
-**Built with:**  
-`React` `Vite` `Tailwind CSS` `Flask` `REST APIs`
-
-<a href="https://github.com/Ahmeda001/LawMate-Ai-Legal-Companion-for-Freelancers">
-  <b>View Repository →</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 More Projects
-
-I'm continuously working on projects involving:
-
-**AI • NLP • Machine Learning • Web Development • Backend Systems**
-
-<a href="https://github.com/Ahmeda001?tab=repositories">
-  <b>Explore All Repositories →</b>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -134,11 +68,6 @@ Git • GitHub • Linux • VS Code • Vite
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Ahmeda001&show_icons=true&include_all_commits=true&count_private=true&custom_title=Ahmed%20Ali%20Tariq's%20GitHub%20Stats"
-/>
 
 <img
   height="180"
