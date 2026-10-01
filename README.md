@@ -10,7 +10,7 @@ I build practical software at the intersection of
 <br>
 
 <a href="https://ahmeda001.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/-ahmed-ali/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -120,7 +120,7 @@ I'm always interested in learning, experimenting, and collaborating on meaningfu
 
 <br>
 
-<a href="https://aliand.vercel.app/"><b>Portfolio</b></a>
+<a href="https://ahmeda001.github.io/"><b>Portfolio</b></a>
 &nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/-ahmed-ali/"><b>LinkedIn</b></a>
 &nbsp; • &nbsp;
